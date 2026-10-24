@@ -1,4 +1,4 @@
-# biz-launch-skills
+# biz-ready-skills
 
 Claude skills that help a founder turn an idea into a business that makes money.
 
@@ -26,8 +26,8 @@ Claude skills that help a founder turn an idea into a business that makes money.
 ## Install
 
 ```
-/plugin marketplace add aya-taleb/biz-launch-skills
-/plugin install biz-launch-skills@biz-launch-skills
+/plugin marketplace add aya-taleb/biz-ready-skills
+/plugin install biz-ready-skills@biz-ready-skills
 ```
 
 Some skills here use tools from Jake Schincariol's

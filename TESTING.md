@@ -8,7 +8,7 @@ them. Treat the scores as a careful self-check, not an outside measure. Aya can 
 same cases with `claude plugin eval`.
 
 The web research in the runs was real (pages fetched on 2026-10-23, with links in the
-outputs). Run outputs and grade notes are in `_work/biz-launch-skills/<skill>/round-N/`
+outputs). Run outputs and grade notes are in `_work/biz-ready-skills/<skill>/round-N/`
 in the build folder, outside this repo.
 
 Rubric (TEST-PROTOCOL section 2): graders 40, follows its own rules 15, nothing made up
@@ -151,7 +151,7 @@ Handicaps to keep in mind: Jake's runs had no tools of his own, so any tool step
 by hand. The expected outcomes were written by the builder with our skills, and some name
 our file paths (name-checks.json, metrics.json, updates/2026-10.md), which favors ours.
 The judge is noisy: the same Jake output scored 38 in one judging and 33 in the next.
-Run outputs: `_work/review/biz-launch/<skill>/<case>/` in the build folder.
+Run outputs: `_work/review/biz-ready/<skill>/<case>/` in the build folder.
 
 | skill | case | winner | ours score | baseline score | fix rounds | one-line reason |
 | --- | --- | --- | --- | --- | --- | --- |

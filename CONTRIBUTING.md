@@ -9,15 +9,15 @@ Fix it in its home repo, and the change gets copied everywhere else.
 
 | skill | home repo |
 | --- | --- |
-| competitors | biz-launch-skills (this repo) |
-| board | biz-launch-skills (this repo) |
-| launch | biz-launch-skills (this repo) |
-| funding | biz-launch-skills (this repo) |
-| pitch | biz-launch-skills (this repo) |
-| offer | biz-launch-skills (this repo) |
-| marketing | biz-launch-skills (this repo) |
-| brand | biz-launch-skills (this repo) |
-| ops | biz-launch-skills (this repo) |
+| competitors | biz-ready-skills (this repo) |
+| board | biz-ready-skills (this repo) |
+| launch | biz-ready-skills (this repo) |
+| funding | biz-ready-skills (this repo) |
+| pitch | biz-ready-skills (this repo) |
+| offer | biz-ready-skills (this repo) |
+| marketing | biz-ready-skills (this repo) |
+| brand | biz-ready-skills (this repo) |
+| ops | biz-ready-skills (this repo) |
 | customer-discovery | [entrepreneur-skills](https://github.com/aya-taleb/entrepreneur-skills) |
 | validate | [entrepreneur-skills](https://github.com/aya-taleb/entrepreneur-skills) |
 | launch-video | [multimedia-skills](https://github.com/aya-taleb/multimedia-skills) |
