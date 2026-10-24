@@ -46,3 +46,8 @@ discover -s tests`).
 
 - User data moved out of `~/.claude` (protected by Claude Code) to `~/.founder`: business files, social folders and the media ledger. Tools honor `FOUNDER_HOME`; tests use a temp one.
 - launch: with no break-even, the pass line is a real count and deadline from what the founder knows (default floors such as 20 paid pre-orders in 14 days), with the reasoning shown. `{{...}}` only for numbers the founder must give. New grader in local-no-test-yet. Aya: check the floors suit you.
+
+
+## Decision, Oct 24
+
+Aya decided: launch sets no fixed default pass line. With no break-even and no monthly number, it offers a range per business type and the founder picks the number before the test starts.

@@ -84,10 +84,15 @@ the reasoning so they can change it before the test starts:
 2. Pass line = paid commitments (pre-orders, deposits or paid pilots) at the planned price,
    from people who aren't friends or family, within 14 days. Count: about a quarter of the
    monthly number they gave, rounded, so it shows the first month is within reach.
-3. If they can't give a monthly number, use these floors and say they are a starting line,
-   not a fact: 20 paid pre-orders (local, food, subscription, product), 3 paid pilots
-   (service or agency), 20 paid pre-orders or deposits from the landing page (online).
-   Why: few enough to reach by hand in two weeks, too many to come from friends alone.
+3. If they can't give a monthly number, don't pick one for them. Offer a range for their
+   kind of business and ask them to choose a number inside it before the test starts:
+   - local, food, subscription or product: 10 to 30 paid pre-orders in 14 days
+   - service or agency: 2 to 5 paid pilots in 30 days
+   - online product or app: 10 to 50 paid pre-orders or deposits from the landing page in 14 days
+   Say why a range: the right bar depends on price, reach and what they can serve, and
+   they know those better. The low end is the least that rules out friends-only demand.
+   If they are not there to answer, write the plan with the pass line marked
+   "to set before the test: pick N between 10 and 30" and make choosing it task 1.
 4. Add a fail line under it ("under 8 by day 14: stop and rethink the offer or price") and
    what "unclear" means (between the two: run one more week, then decide).
 
@@ -96,6 +101,10 @@ Write it like this in the plan:
 > Pass: 20 paid pre-orders at $12 a lunch by Nov 20 (14 days). Fail: under 8.
 > Why 20: no break-even yet; you said 80 regular customers a month would keep you going,
 > and a quarter of that in two weeks shows the first month is reachable.
+
+Without a monthly number, the founder picks from the range and the plan says so:
+
+> Pass: 15 paid pre-orders at $12 a lunch by Nov 20 (14 days), your pick from 10 to 30. Fail: under 6.
 
 Keep `{{...}}` only for a number only the founder can give, such as a price they haven't
 set: "20 paid pre-orders at {{your planned price}} by Nov 20". The count and the deadline
