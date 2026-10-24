@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-deck-narrative
+expected_outcome: |
+  A founder/deck.md with a one-line story, 10 to 12 slides each with message, say, show, numbers with sources and a likely question; real numbers from validate.md (412 visits, 31 signups, 7.5%, 4 of 5) unrounded; placeholders for missing market size, team and unit costs naming the skill; no simulated quotes as testimonials; founder/pitch.md untouched; design handoff to a pitch deck skill such as pitchnarrative.
+context:
+  scaffold_script: place-files.sh

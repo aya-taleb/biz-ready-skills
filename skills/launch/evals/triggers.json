@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "how do I launch my dog grooming van? want to start in March",
+    "make me a launch checklist for my Shopify store",
+    "when can I realistically open my cafe if permits take 6 weeks?",
+    "our pre-sale hit the target, what's the plan for go-live",
+    "plan a soft open for my salon",
+    "launch plan for my SaaS, target date Jan 15"
+  ],
+  "should_not_trigger": [
+    "design a fake door test for my app idea",
+    "make a 45 second promo video for my launch",
+    "write the launch email to my waitlist",
+    "what should I name my bakery",
+    "compile my business plan",
+    "who are my competitors"
+  ]
+}

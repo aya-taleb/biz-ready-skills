@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "what grants can I get for my edtech startup in Texas",
+    "should I apply to YC or Techstars?",
+    "is my medical device company eligible for SBIR?",
+    "I need 40k to open my bakery, where do I get it without investors",
+    "find angel investors in Seattle for a pre-seed round",
+    "help me fill in this accelerator application"
+  ],
+  "should_not_trigger": [
+    "write my investor update for October",
+    "build my 3 year financial projections",
+    "how much should I charge for my subscription",
+    "make a 10 slide pitch deck",
+    "is my idea any good",
+    "what permits do I need for a food truck in Seattle"
+  ]
+}

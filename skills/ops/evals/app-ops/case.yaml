@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: app-ops
+expected_outcome: |
+  Routines for a solo app (support inbox, releases, monitoring, weekly metrics); tools with vendor pricing links (hosting, AI API, email, analytics) or placeholders; registrations (entity, EIN, App Store paid apps agreement, privacy policy, sales tax as to confirm); risks (AI cost spike, app review rejection, outage, founder sick, privacy of fridge photos); costs back to the CFO with the tool; next founder-cfo.

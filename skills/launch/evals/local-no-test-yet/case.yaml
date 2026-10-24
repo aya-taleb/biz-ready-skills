@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-no-test-yet
+expected_outcome: |
+  Notices no validate.md / no test, does not schedule the lease before a demand test, makes a pre-order test task 1 with a gate and a filled-in pass line (count and deadline, with its reasoning, no {{N}}), includes permit tasks marked as estimates to confirm, runs the countdown and reports whether Jan 12 fits, and suggests /validate.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: local-food-brand
+expected_outcome: |
+  Keeps the name and runs checks on it (domain lookup with date, trademark search linked or not checked, WA business name search link or not checked), no available claims; voice warm and nostalgic with is/is not, before/after; promise tied to ops or marked check with /ops; look brief for a local food business with sign, packaging sticker, menu, delivery bag; does not use cultural cliches as decoration without care.

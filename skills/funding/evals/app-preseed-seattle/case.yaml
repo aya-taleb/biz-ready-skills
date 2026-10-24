@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-preseed-seattle
+expected_outcome: |
+  Says which paths fit (accelerators, angels, pre-seed) and that SBIR likely does not fit a consumer app without a real research question. Looks programs up live with links, amounts, equity and dated deadlines, runs the fit tool, flags deadlines within 21 days, and offers application drafts using only founder/ facts.
+context:
+  scaffold_script: place-files.sh

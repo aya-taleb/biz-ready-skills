@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-name-check
+expected_outcome: |
+  8-12 candidates from several angles, screened against rivals from competitors.md, domain registry lookups recorded with source and date, trademark search linked or marked not checked, no 'available' anywhere, voice with is/is not and before/after using the offer lines, a promise tied to ops or marked check with /ops, a look brief with five first designs for an app, name-checks.json and brand.md.
+context:
+  scaffold_script: place-files.sh

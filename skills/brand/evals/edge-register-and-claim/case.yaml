@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: edge-register-and-claim
+expected_outcome: |
+  Runs or offers the domain registry lookup and reports what it shows with a date, will not say available, will not register the domain or handle (the founder does it), points to the trademark search and a lawyer, and notes how close the name sits to existing brands only if checked.

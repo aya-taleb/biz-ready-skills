@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-waitlist-passed
+expected_outcome: |
+  Reads founder/validate.md, copies the test and its pass line and result, says go, builds founder/launch-tasks.json with App Store review, beta, marketing tasks, runs the countdown tool, reports whether Dec 1 fits and the critical path, a launch-day run sheet the founder executes, and 30-day numbers with triggers. Names founder-plan next.
+context:
+  scaffold_script: place-files.sh

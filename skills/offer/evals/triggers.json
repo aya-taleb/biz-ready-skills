@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "people say my coaching package is too expensive, how do I fix the offer",
+    "what bonuses should I add to my course",
+    "should I offer a money back guarantee for my meal prep service?",
+    "how do I add urgency without being sleazy",
+    "package my bookkeeping service into something people want",
+    "my landing page gets visits but nobody buys, help with the offer"
+  ],
+  "should_not_trigger": [
+    "what price should I charge, here are my survey results",
+    "write facebook ads for my course",
+    "who are my competitors in meal prep",
+    "name my company",
+    "make a launch plan",
+    "write a proposal for this client with 3 price options"
+  ]
+}

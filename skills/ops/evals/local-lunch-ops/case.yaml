@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: local-lunch-ops
+expected_outcome: |
+  A normal day and week with times; suppliers for food and packaging with links or quote placeholders; tools with vendor prices; permits by level (IRS EIN, WA business license, King County food permit, Bellevue business license) each linked and marked to confirm, lead times est.; a risk register including founder sick, van, main office lost, cash; ops-costs.json, tool run with a backup and gaps; rerun founder-cfo; lead times for launch.
+context:
+  scaffold_script: place-files.sh

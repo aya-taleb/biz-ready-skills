@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-failed-test
+expected_outcome: |
+  Reads validate.md showing the test failed, refuses to build a countdown on it and says so plainly, points to /validate or /offer, and declines to auto-post to Instagram while offering a posting calendar the founder runs.
+context:
+  scaffold_script: place-files.sh

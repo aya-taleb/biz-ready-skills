@@ -1,0 +1,5 @@
+{
+  "name": "biz-launch-skills",
+  "owner": {"name": "Aya Taleb", "url": "https://github.com/aya-taleb"},
+  "plugins": [{"name": "biz-launch-skills", "source": "./", "description": "Turn an idea into a business that makes money: competitors, a board review, the offer, marketing, brand, operations, funding, the pitch and a dated launch."}]
+}

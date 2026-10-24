@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: app-marketing-plan
+expected_outcome: |
+  Positioning from competitors and objections, max cost per customer from the tool with the math and a half-retention line, 2-3 channels with tests and hours fitting 8 hours a week, four dated weeks from 2026-11-03, keep/stop levels tied to the max cost, example messages the founder posts, next skill named.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,117 @@
+{
+  "repo": "biz-launch-skills",
+  "folder": "founder/",
+  "skills": [
+    {
+      "name": "competitors",
+      "status": "rewritten",
+      "replaces": "Jakeschincariol/founder-skill skills/founder-competitors",
+      "version": "0.1.0",
+      "shared_to": [
+        "entrepreneur-skills",
+        "mimic-skills"
+      ]
+    },
+    {
+      "name": "board",
+      "status": "rewritten",
+      "replaces": "Jakeschincariol/founder-skill skills/founder-board",
+      "version": "0.1.0"
+    },
+    {
+      "name": "launch",
+      "status": "reworked",
+      "source": {
+        "repo": "Jakeschincariol/founder-skill",
+        "commit": "fd9385b0cfe1b96bebce3898fbd506d73eff5a9d",
+        "path": "skills/founder-launch",
+        "license": "MIT"
+      },
+      "version": "0.1.0"
+    },
+    {
+      "name": "funding",
+      "status": "ours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "pitch",
+      "status": "ours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "offer",
+      "status": "rewritten",
+      "replaces": "Jakeschincariol/founder-skill skills/founder-offer",
+      "version": "0.1.0"
+    },
+    {
+      "name": "marketing",
+      "status": "rewritten",
+      "replaces": "Jakeschincariol/founder-skill skills/founder-marketing",
+      "version": "0.1.0"
+    },
+    {
+      "name": "brand",
+      "status": "rewritten",
+      "replaces": "Jakeschincariol/founder-skill skills/founder-brand",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ops",
+      "status": "rewritten",
+      "replaces": "Jakeschincariol/founder-skill skills/founder-ops",
+      "version": "0.1.0"
+    },
+    {
+      "name": "founder-consumer",
+      "status": "linked",
+      "repo": "Jakeschincariol/founder-skill",
+      "commit": "fd9385b0cfe1b96bebce3898fbd506d73eff5a9d",
+      "path": "skills/founder-consumer",
+      "license": "MIT"
+    },
+    {
+      "name": "founder-pricing",
+      "status": "linked",
+      "repo": "Jakeschincariol/founder-skill",
+      "commit": "fd9385b0cfe1b96bebce3898fbd506d73eff5a9d",
+      "path": "skills/founder-pricing",
+      "license": "MIT"
+    },
+    {
+      "name": "founder-cfo",
+      "status": "linked",
+      "repo": "Jakeschincariol/founder-skill",
+      "commit": "fd9385b0cfe1b96bebce3898fbd506d73eff5a9d",
+      "path": "skills/founder-cfo",
+      "license": "MIT"
+    },
+    {
+      "name": "founder-plan",
+      "status": "linked",
+      "repo": "Jakeschincariol/founder-skill",
+      "commit": "fd9385b0cfe1b96bebce3898fbd506d73eff5a9d",
+      "path": "skills/founder-plan",
+      "license": "MIT"
+    },
+    {
+      "name": "customer-discovery",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "validate",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "launch-video",
+      "status": "synced",
+      "home": "multimedia-skills",
+      "version": "0.1.0"
+    }
+  ]
+}

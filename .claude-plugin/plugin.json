@@ -1,0 +1,11 @@
+{
+  "name": "biz-launch-skills",
+  "description": "Turn an idea into a business that makes money: competitors, a board review, the offer, marketing, brand, operations, funding, the pitch and a dated launch.",
+  "version": "0.1.0",
+  "author": {"name": "Aya Taleb", "url": "https://github.com/aya-taleb"},
+  "homepage": "https://github.com/aya-taleb/biz-launch-skills",
+  "repository": "https://github.com/aya-taleb/biz-launch-skills",
+  "license": "MIT",
+  "keywords": ["claude-skills", "founder", "startup", "small-business", "launch", "funding", "competitor-analysis"],
+  "skills": "./skills/"
+}

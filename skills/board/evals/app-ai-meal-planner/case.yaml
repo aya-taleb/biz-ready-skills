@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: app-ai-meal-planner
+expected_outcome: |
+  founder/idea.md written with gaps marked; four or five lenses that fit an app (demand, evidence, money, reach, 7 Powers), each credited to its book, scored with reasons; evidence lens scores low because nothing is tested; a specific pre-mortem; a Go if or Not yet call with numbered, testable conditions with numbers and deadlines, each naming a skill; no impersonation; no invented market numbers.

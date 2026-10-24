@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "what permits do I need for a food truck in Seattle",
+    "operations plan for my cleaning business",
+    "write the daily SOP for my coffee cart",
+    "what could go wrong with my subscription box business, make a risk list",
+    "find packaging suppliers for my bakery",
+    "what will it actually cost per month to run my app"
+  ],
+  "should_not_trigger": [
+    "build my 12 month financial model",
+    "write a brief for my VA to handle bookings",
+    "how do I launch on product hunt",
+    "who are my competitors",
+    "name my company",
+    "what grants can I get"
+  ]
+}

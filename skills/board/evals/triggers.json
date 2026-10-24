@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "is this a good business idea? dog daycare with a webcam subscription",
+    "tear apart my startup idea before I quit my job",
+    "what would kill a mobile car detailing business in Phoenix?",
+    "be my board of directors and review this SaaS idea",
+    "poke holes in my plan for a halal meal kit",
+    "honest feedback: should I start a bookkeeping service for dentists?"
+  ],
+  "should_not_trigger": [
+    "how big is the market for meal kits in the US",
+    "write my 10 slide pitch deck",
+    "who are the competitors for dog daycare in Austin",
+    "make me a 30 day marketing plan",
+    "build the financial model for my cafe",
+    "what grants can I apply for as a female founder"
+  ]
+}

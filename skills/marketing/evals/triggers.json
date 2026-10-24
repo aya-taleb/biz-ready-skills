@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "make me a marketing plan for my yoga studio",
+    "how do I get my first 100 users for my app",
+    "what should I post for my bakery this month",
+    "how much can I afford to spend on ads to get a customer",
+    "positioning for my bookkeeping service vs the big firms",
+    "nobody knows my food truck exists, help"
+  ],
+  "should_not_trigger": [
+    "write a cold email to this prospect",
+    "make an instagram carousel about my product",
+    "pick a name for my bakery",
+    "who are my competitors",
+    "build my offer with bonuses and a guarantee",
+    "manage my facebook ads campaign budget"
+  ]
+}

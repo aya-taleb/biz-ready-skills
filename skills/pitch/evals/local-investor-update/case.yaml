@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: local-investor-update
+expected_outcome: |
+  A short update with the headline, a numbers table with changes vs September, computed runway (11,300 / 4,100 = about 2.8 months) with the math shown, wins, a plain bad-news section with the lost office and van, what is being done and by when (placeholders if unknown), specific asks, saved to founder/updates/2026-10.md and metrics.json.

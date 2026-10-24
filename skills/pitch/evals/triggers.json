@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "help me outline my seed deck, 12 slides",
+    "what should go on each slide of my pitch deck",
+    "write my monthly investor update for September",
+    "I have a pitch meeting Friday with an angel, help me tell the story",
+    "draft an update to my investors, we missed our revenue goal",
+    "turn my founder folder into a deck narrative"
+  ],
+  "should_not_trigger": [
+    "find angel investors in Austin",
+    "design the slides in Figma for my deck",
+    "write a 3 line pitch for the consumer panel",
+    "what's my break-even point",
+    "write a cold email to a prospect",
+    "make a 30 day launch plan"
+  ]
+}
