@@ -194,3 +194,31 @@ synced copies in entrepreneur-skills and mimic-skills need the sync rerun.
 Still weak: launch leaves the pass line as `{{N}}` when there is no break-even; local
 competitors runs find few complaints and no distances; the brand local case is close to a
 tie with Jake's.
+
+## Polish round (Oct 24)
+
+Method: each fix was rerun in fresh, isolated `claude -p` runs (own HOME, own project folder,
+only the skill plus founder-context and humanize where the repo has them). The new version ran
+against the current version (the last commit) on the same eval case. A separate `claude -p`
+judge saw both outputs as A and B and scored them out of 50, once in each label order. A fix
+ships only if it wins or ties in both orders. Scores are new / current. Runs, judge packets
+and keys: `/home/claude/build/_work/polish/`.
+
+| skill | case | round | order A-new | order A-current | result |
+| --- | --- | --- | --- | --- | --- |
+| competitors | local-lunch-subscription | r1 | lost 39/40 | lost 38/42 | not shipped |
+| competitors | local-lunch-subscription | r2 | lost 38/39 | won 39/37 | not shipped |
+| competitors | local-lunch-subscription | r3 | lost 37/40 | lost 37/40 | not shipped |
+| competitors | local-lunch-subscription | r4 | lost 37/40 | won 40/37 | not shipped, reverted |
+
+competitors: not shipped. The reviewer asked for a local path (Google Maps and Yelp listings
+read like a person, review themes from what is visible, approximate distance, honest thin
+labels). Four versions were tried. None won or tied both orders: the runs differ mostly by
+which rivals the web search turns up (Foodsby, the city food truck schedule, the office
+cafeteria), and most listings block automated reading, so the new steps added little real data.
+One version also left distances "not found" when the user gave only an area. The
+skill is back at the committed version. The last attempt is saved in
+`/home/claude/build/_work/polish/unshipped/competitors/r4-version/` for a later try. A
+places tool, or the user pasting the first screen of reviews, is likely the real fix.
+
+Also in this commit: validate 0.1.1, synced from entrepreneur-skills (pass-line ranges).
