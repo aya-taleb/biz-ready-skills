@@ -79,8 +79,7 @@ slide as if a customer said them.
 ### Step 4: hand off for design
 
 This skill writes the story and the numbers, not the slide layout. If the user has a
-pitch deck design skill installed (for example Aya Taleb's `pitchnarrative`, or another
-deck or slides skill), hand `founder/deck.md` to it for the slide design. If not, offer to
+deck or slides skill installed, hand `founder/deck.md` to it for the slide design. If not, offer to
 export the narrative to a slide file with whatever tool is available, keeping
 `founder/deck.md` as the source.
 
